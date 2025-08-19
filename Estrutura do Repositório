@@ -1,0 +1,18 @@
+pawcare-client-management/
+├── README.md
+├── .gitignore
+├── LICENSE
+├── requirements.txt (se for Python)
+├── app/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── models.py
+│   ├── database.py
+│   └── utils.py
+├── data/
+│   └── clients.json (ou CSV para armazenar dados de teste)
+├── tests/
+│   ├── test_main.py
+│   └── test_models.py
+└── docs/
+    └── architecture.md
