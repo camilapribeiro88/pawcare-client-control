@@ -1,0 +1,25 @@
+# PawCare Client Management
+
+Este repositório contém o sistema de controle de clientes da empresa PawCare, permitindo cadastrar, atualizar, consultar e remover informações de clientes e seus pets.
+
+## Funcionalidades
+
+- Cadastro de clientes e pets
+- Consulta de clientes por nome, CPF ou ID
+- Atualização de informações
+- Remoção de clientes
+- Relatórios simples de clientes ativos
+
+## Tecnologias
+
+- Python 3.x
+- SQLite (ou outro banco de dados)
+- Flask/FastAPI (opcional, para interface web)
+- Pytest (para testes)
+
+## Como executar
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/SEU_USUARIO/pawcare-client-management.git
+cd pawcare-client-management
